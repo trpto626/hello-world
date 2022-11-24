@@ -13,6 +13,5 @@ Just testing stuff out
 1. Making a word **bold** or *italicised*
 2. Here's a [link](https://github.com/trpto626) to my GitHub
 ---
-> blockquote
-some text
 `insert code here`
+> blockquote
